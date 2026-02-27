@@ -4,7 +4,9 @@ A decentralized crowdfunding application built on the **Stellar blockchain** usi
 
 ---
 
-## 📸 Screenshots
+## Wallet Support
+- Freighter Wallet
+- Albedo Wallet
 
 ### Wallet Selection
 ![Wallet Options](./screenshots/wallet-options.png)
