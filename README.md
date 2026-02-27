@@ -42,7 +42,7 @@ A decentralized crowdfunding application built on the **Stellar blockchain** usi
 - Contract: [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CAETW2QVHH2VQL2SYKCLXHSXKVSDNG4WLN74QOEI6G2EZXKUBAXWNP6T)
 
 ###  Transaction Hash (Contract Call)
-> `[Add your transaction hash here]`  
+> `[74e0812e9a7add6b36c63260590e7a287445d53976d0b8232a2c525c91763781]`  
 > Verify at: `https://stellar.expert/explorer/testnet/tx/74e0812e9a7add6b36c63260590e7a287445d53976d0b8232a2c525c91763781`
 
 ---
@@ -66,7 +66,7 @@ A decentralized crowdfunding application built on the **Stellar blockchain** usi
 - [Freighter Wallet](https://freighter.app/) browser extension OR [Albedo](https://albedo.link/)
 - Stellar Testnet account with test XLM (get from [Stellar Friendbot](https://friendbot.stellar.org/))
 
----
+
 
 ---
 
